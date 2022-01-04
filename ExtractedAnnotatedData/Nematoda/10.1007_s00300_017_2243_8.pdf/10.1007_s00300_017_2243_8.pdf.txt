@@ -1,0 +1,168 @@
+
+
+
+
+
+anDC_vOgzrthmALhMyT3mBX9v6Aa-_10.1007_s00300_017_2243_8.pdf
+
+
+
+
+
+Vol.:(0123456789)
+
+Polar Biology (2018) 41:1013–1018 https://doi.org/10.1007/s00300-017-2243-8
+
+SHORT NOTE
+
+Stable C and N isotope ratios reveal soil food web structure and identify the nematode Eudorylaimus antarcticus as an omnivore–predator in Taylor Valley, Antarctica
+
+E. Ashley Shaw1  · Byron J. Adams2 · John E. Barrett3 · W. Berry Lyons4 · Ross A. Virginia5 · Diana H. Wall1
+
+Received: 9 July 2017 / Revised: 11 December 2017 / Accepted: 22 December 2017 / Published online: 23 January 2018 © Springer-Verlag GmbH Germany, part of Springer Nature 2018
+
+Abstract Soil food webs of the McMurdo Dry Valleys, Antarctica are simple. These include primary trophic levels of mosses, algae, cyanobacteria, bacteria, archaea, and fungi, and their protozoan and metazoan consumers (including relatively few species of nematodes, tardigrades, rotifers, and microarthropods). These biota are patchily distributed across the landscape, with greatest faunal biodiversity associated with wet soil. Understanding trophic structure is critical to studies of biotic interactions and distribution; yet, McMurdo Dry Valley soil food web structure has been inferred from limited laboratory culturing and micro- scopic observations. To address this, we measured stable isotope natural abundance ratios of C (13C/12C) and N (15N/14N) for different metazoan taxa (using whole body biomass) to determine soil food web structure in Taylor Valley, Antarctica. Nitrogen isotopes were most useful in differentiating trophic levels because they fractionated predictably at higher trophic levels. Using 15N/14N, we found that three trophic levels were present in wet soil habitats. While cyanobacterial mats were the primary trophic level, the nematode Plectus murrayi, tardigrade Acutuncus antarcticus, and rotifers composed a secondary trophic level of grazers. Eudorylaimus antarcticus had a 15N/14N ratio that was 2–4‰ higher than that of grazers, indicating that this species is the sole member of a tertiary trophic level. Understanding the trophic positions of soil fauna is critical to predictions of current and future species interactions and their distributions for the McMurdo Dry Valleys, Antarctica.
+
+Keywords Dry Valleys · Predator · Trophic levels · Isotopic fractionation · Feeding ecology · Connectivity
+
+Introduction
+
+The McMurdo Dry Valleys, Antarctica are an extreme eco- system: they are very cold, dry, and windy, their soils have high pH, low moisture, and low organic carbon, and are often saline (Campbell et al. 1998; Fountain et al. 1999; Bur- kins et al. 2001). These are simple ecosystems compared to temperate systems: they lack vascular plants, soil fauna bio- diversity is 1.1–2.6% of temperate soils, and approximately 30–40% of studied soils lack soil fauna (Freckman and Virginia 1997). While the presence of soil cyanobacteria, microbes, nematodes, rotifers, tardigrades, collembolans, and mites has been recorded in locations throughout the dry valleys, their distributions are patchy, with greatest inverte- brate diversity in wetted lake and streammargins (Freckman and Virginia 1997; Adams et al. 2014). For example, soil invertebrates found in Taylor Valley include four species of nematode: Scottnema lindsayae, Plectus murrayi, Geo- monhystera antarcticola, and Eudorylaimus antarcticus, a tardigrade, Acutuncus antarcticus, and rotifers. Of these, S. lindsayae is the only taxon whose most suitable habitat is the dry soil (e.g., Freckman and Virginia 1997; Treonis et al. 1999; Adams et al. 2006; Ayres et al. 2007) that makes up > 95% of the landscape. The low biodiversity in both wet and dry soils makes each trophic link significant, due to the
+
+
+
+* E. Ashley Shaw  elizabeth.shaw@colostate.edu
+
+1 Department of Biology and Natural Resource Ecology Laboratory, Colorado State University, Fort Collins, CO, USA
+
+2 Department of Biology, Evolutionary Ecology Laboratories, and Monte L. Bean Museum, Brigham Young University, Provo, UT, USA
+
+3 Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA
+
+4 School of Earth Science, Byrd Polar Research Center, The Ohio State University, Columbus, OH, USA
+
+5 Environmental Studies Program, Dartmouth College, Hanover, NH, USA
+
+
+
+
+1014
+
+Polar Biology (2018) 41:1013–1018
+
+1 3
+
+lower redundancy in function compared to more temperate soils (Freckman and Virginia 1997). However, in situ obser- vation of feeding is difficult due to the opaque nature of soil and the small size of these fauna. The current understanding of dry valley soil trophic structure is limited to laboratory studies and microscopic observations. Some Taylor Valley soil fauna have been grown in the laboratory, helping to identify their feeding ecology. For example, P. murrayi feeds on bacteria in laboratory cultures (Adhikari et al. 2010; de Tomasel et al. 2013), while the tardigrade A. antarcticus feeds on algae (Cecilia Milano de Tomasel, personal communication). Additionally, S. lindsayae is a known microbivore, feeding on yeast and bacteria in a laboratory study (Overhoff et al. 1993). Fur- thermore, mouthparts are often used to identify nematode trophic groups under microscopic observation (Yeates et al. 1993). While P. murrayi, S. lindsayae, and G. antarcticola all possess the tube-like esophagus of typical bacterivore nematodes, E. antarcticus bears an odontostylet—a pierc- ing structure inside its mouth which can puncture food, such as plant or animal tissue. Previous studies predicted that E. antarcticus was a likely omnivore–predator in the dry valleys (Wall and Virginia 1999) due to its mouthparts and the trophic classification of the genus Eudorylaimus as an omnivore–predator in temperate habitats (Yeates et al. 1993). Other Antarctic studies hypothesized that soil algae was the only food source for E. antarcticus (Powers et al. 1998). More recently, E. antarcticus was revealed to be an algal feeder through observation of chlorophyll in the intes- tine using a fluorescent microscope and acridine orange filter (Wall 2007). While other locations in Antarctica have pre- daceous taxa (Sohlenius and Boström 2005), no studies to date have confirmed a metazoan predator in Taylor Valley. The nematode genus Eudorylaimus is widespread in soils (McSorley 2012). This odontostylet-bearing group is con- sidered omnivorous or predaceous in temperate ecosystems (Yeates et al. 1993; McSorley 2012; Stirling 2014). As early as 1929, Cobb observed Eudorylaimus feeding on mite eggs. Additionally, Eudorylaimus in laboratory culture preys on nematodes, such as the bacterivore genera Acrobeloides, Plectus, and Panagrellus (Tjepkema et al. 1971; Ferris and Ferris 1989), but its food sources are diverse: it also feeds on algae, enchytraeids, fungi, protozoa, and mites, but with reproduction only observed on nematodes, algae, moss, and protozoa (Hollis 1957; Wood 1973; Ferris and Ferris 1989). Its diverse feeding strategy and occupation of a top trophic position may make it an important driver of food web struc- ture in temperate climates. However, the high taxonomic and functional biodiversity in soil makes these relationships difficult to discern. The natural abundance of stable isotopes fractionate pre- dictably up trophic levels at approximately + 3–4‰ for δ15N and + 0.5–1‰ for δ13C (Post 2002; McCutchan et al. 2003).
+
+Previous stable isotope studies showed that nematode orders and families differ in their trophic structure (Kudrin et al. 2015). Eudorylaimus antarcticus belongs to the order Dory- laimida, and Kudrin et al. (2015) found this order to have a similar isotopic composition to predaceous nematodes in boreal forests. However, in hot desert soils, Dorylaimida have isotopic composition similar to bacterivore nematodes, probably due to feeding on cyanobacteria (Darby and Neher 2012). Following this logic, we used natural abundance of stable isotopes to characterize the trophic levels for the three most abundant nematode species in Taylor Valley (E. ant- arcticus, P. murrayi, and S. lindsayae), the tardigrade A. antarcticus, and rotifers (grouped at phylum level). We did not include G. antarcticola in this study because it is an extremely rare species, and we did not find it at our study sites. We hypothesized that the grazers P. murrayi, S. lind- sayae, A. antarcticus, and rotifers would be 3–4‰ for δ15N and around + 0.5–1‰ for δ13C higher than the microbial mat values. We also expected that E. antarcticus would be 3–4‰ for δ15N and around + 0.5–1‰ for δ13C higher than P. murrayi, S. lindsayae, A. antarcticus, and rotifers.
+
+Methods
+
+To test our hypothesis, we chose a well-studied site in Taylor Valley (e.g., Spaulding and McKnight 1998; Treonis et al. 1999) near Von Guerard stream in the Lake Fryxell basin of Taylor Valley (77.608 S, 163.254 E). In January 2014, six soil samples were collected near Von Guerard stream (Fig. 1). Three random soil samples (sites 1, 2, 3) were col- lected in dry soil more than 5 m from the stream (but not more than 10 m) and three random soil samples (sites 4, 5, 6) were collected within 5 m of the stream (within wet- ted margin, but not within stream sediments). Sites 1–3 were considered ‘dry’ soil replicates and sites 4–6 were considered ‘wet’ soil replicates. These samples were col- lected into Whirl-Pak® bags to 10 cm using a clean plastic scoop. Approximately 500 g of soil was collected per sam- ple. The soils were stored in an ice chest and transported to the Crary Laboratory at McMurdo Station (United States Antarctic Program) where they were slowly cooled from + 4 to − 20 °C over 4 days (i.e., 24 h at + 4 °C, 24 h at − 4 °C, 24 h at − 10 °C, and 24 h at − 20 °C). Samples were shipped frozen (− 20 °C) to Colorado State University, Fort Collins, Colorado, USA, and slowly defrosted (as described by De Tomasel et al. 2013) before extracting soil fauna. For each of the six sites, fauna were extracted from 100 g of soil via cold sugar centrifugation technique (Freckman and Virginia 1993). Within 48 h of extraction, taxonomic groups were identified (nematodes and tardigrades identified to species and rotifers to phylum, Olympus CKX41, 200X magnification) and counted. An additional 50-g subsample
+
+
+
+
+1015Polar Biology (2018) 41:1013–1018
+
+1 3
+
+of soil was used to determine gravimetric soil moisture (water mass per unit soil mass) by mass loss from soils dried at 105 °C for 48 h. The soil fauna counts were then corrected for soil moisture content and expressed as  kg−1
+
+dry soil. After identification and enumeration, each group was separated and collected into tin capsules (8 × 5 mm, Elemental Microanalysis BN/170056) with an eyelash tool (Superfine eyelash with handle, Ted Pella, Inc., Prod no. 113) under a dissecting microscope (Olympus SZX10, 30X magnification) as per the method described by Shaw et al. (2016). A minimum of 0.02 mg biomass dry weight (approximately 50–100 live individuals) was collected for each taxon. For each taxon identified at each site, we aimed to triplicate fauna collections for isotope analysis. Extrac- tions from 100 g of soil were repeated by site until sufficient biomass was achieved for each group found at that site. For this study, it was possible to collect eight total replicates for E. antarcticus (three replicates from sites 4, 5, and two replicates from site 6), nine total replicates for P. murrayi (three replicates from each of the sites 4, 5, and 6), five total replicates for S. lindsayae (two replicates from site 2, and three replicates from site 3), nine total replicates for A. antarcticus (three replicates from each of the sites 4, 5, and 6), three replicates for rotifers (one replicate from each of the sites 4, 5, and 6), and nine total replicates for the cyano- bacterial mat (three replicates from each of the sites 4, 5, and 6). Samples were dried for 48 h in a desiccator prior to shipment to the Stable Isotope Mass Spectrometry Labora- tory (SIMSL) at Kansas State University for isotope analysis (CE-1110 EA coupled via Conflo II interface to an IRMS, Thermo Finnigan DeltaPlus). We also extracted P. murrayi from cultures grown on Bold’s Modified Basal Freshwater Nutrient Media with Ottawa Sand (Adhikari et  al. 2010) by both modified
+
+Baermann funnel technique, which uses water only (Hooper 1970), and the sugar centrifugation technique to check for any effect of sugar (which the fauna are submerged in for ~ 2 min) on the carbon isotope composition of the ani- mals. We used 3 replicates for each extraction technique. Our tests revealed that there was no significant difference (p = 0.25, df = 4, unpaired t test) between cultured P. mur- rayi extracted via Baermann funnel or sugar centrifugation, which had δ13C isotopic compositions of − 17.81 ± 0.76 and − 19.26 ± 0.77 (Mean ± SE), respectively.
+
+Results and discussion
+
+Across the six sites near Von Guerard stream, the nema- todes S. lindsayae, P. murrayi, E. antarcticus, tardigrade A. antarcticus, and rotifers were found. However, their dis- tributions were not equal across all sites. Wet sites had soil moistures of 17.91 ± 0.29%; all groups were found in these samples but S. lindsayae was in very low abundance com- pared to dry sites (e.g., sites 1–3; Table 1). Dry sites had gravimetric soil moistures of 0.70 ± 0.12%; only S. lind- sayae was found in these samples (Table 1). This is unsur- prising; many studies have found S. lindsayae dominating dry habitat, while other taxa prefer wetter habitats in the dry valleys (e.g., Freckman and Virginia 1997; Treonis et al. 1999; Adams et al. 2006; Ayres et al. 2007). The stable isotope composition of soil fauna biomass revealed a wet soil food web with three trophic levels: a basal level of cyanobacterial mat, a secondary level of rotifers, tardigrade A. antarcticus, nematode P. murrayi, and a tertiary level occupied by nematode E. antarcticus (Fig. 2). The primary trophic level had an overall isotopic composi- tion of δ15N -5.36 ± 0.96‰, δ13C -24.99 ± 0.63‰. These
+
+Fig. 1  Location of our sample site near Von Guerard stream in the Lake Fryxell basin in Taylor Valley, Antarctica. Taylor Val- ley is located in the McMurdo Dry Valleys of Southern Vic- toria Land, Antarctica (inset). Map by Brad Herried, Polar Geospatial Center
+
+
+
+
+1016
+
+Polar Biology (2018) 41:1013–1018
+
+1 3
+
+cyanobacterial mats from the Von Guerard stream margin have a similar isotopic ratio to the organic matter measured by Lawson et al. (2004) for streams in Taylor Valley, Ant- arctica. While these mats are composed of multiple groups including cyanobacteria and diatoms, which have differing isotopic signatures (Lawson et al. 2004; Velázquez et al. 2017), our analysis is limited to composite mat samples. The secondary trophic level at the wet sites was com- posed of rotifers, tardigrades, and the nematode P. murrayi. Generally, the trophic position of culturable groups, such as P. murrayi and A. antarcticus as revealed by stable isotopes, corresponds to the established understanding of their feeding habits. The nematode, P. murrayi, was enriched in δ13C rela- tive to cyanobacterial mat (~ + 1‰), but only about + 2‰ for δ15N relative to the cyanobacterial mats (Fig. 2). Other studies have shown that the isotopic composition of Plecti- dae from boreal forests also supports its trophic position as a bacterivore (Kudrin et al. 2015). The rotifers and tardigrades had similar isotopic compositions to each other, but differed slightly from P. murrayi and are likely mat grazers (Fig. 2). Both were enriched δ13C +  0.3–0.5‰ and δ15N +  4‰ relative to cyanobacterial mat. Cyanobacterial mats in the McMurdo Dry Valleys are highly species diverse with vary- ing community compositions (Van Horn et al. 2016). Even Von Guerard stream’s mat community varies along stream length (Van Horn et al. 2016). Furthermore, Lawson et al. (2004) showed that mats of varying species composition dif- fer in their isotopic signatures in Taylor Valley. In maritime Antarctica, Velásquez et al. (2017) used stable isotopes to show that mat grazers feed from multiple sources, which varies by taxon. Also, Plectus frommaritime Antarctica has been shown to selectively feed on specific taxa (Newsham et al. 2004). Differences in feeding ecology or food prefer- ences may account for the difference in isotopic composition between P. murrayi and the other grazers. The tertiary trophic level was occupied solely by E. ant- arcticus. This nematode had an isotopic composition of δ15N 0.84 ± 0.44‰, δ13C -22.23 ± 0.25‰ (Fig. 2).   This is an enrichment of + 2.25‰ relative to rotifers and tardigrades and + 4‰ relative to P. murrayi. Nematodes of the order Dorylaimida are usually considered omnivore–predator, but have also been shown to eat bacteria, fungi, algae, and plants (Freckman 1988; Yeates et al. 1993; Kudrin et al. 2015). Pro- tozoa may also be a possible food source for nematodes and, although present in dry valley soil (Bamforth et al. 2005), were not included in this study due to difficulty in isolat- ing individuals and collecting sufficient biomass for isotope measurement. Given our isotope results and that E. antarcti- cus also eats algae (Wall 2007), it should be described as an omnivore–predator for the McMurdo Dry Valleys. The dry soil food web had the lone consumer S. lind- sayae, which is a microbivore nematode (Overhoff et al. 1993). Scottnema lindsayae had an isotopic composition of δ15N -4.18  ±  1.05‰, δ13C -27.91  ±  0.39‰ (Fig.  3), which is considerably lighter than consumers in the wet food web (Fig.  2), making the wet soil’s cyanobacterial mats an unlikely primary level for dry soil. Other studies
+
+Table 1  Abundance of taxonomic groups from Taylor Valley soil samples in total live individuals  kg−1 dry soil
+
+Data are shown as mean  ±  standard error. Dry soil (n  =  3) corresponds to samples 1, 2, and 3, which were  >  5  m from the stream and had soil moisture  <  1% (gravimetric). Wet soil (n  =  3) corresponds to samples 4, 5, and 6, which were < 5 m from the stream and had soil moisture > 17% (gravimetric)
+
+Taxonomic group
+
+Overall abundance Dry soil abundance Wet soil abundance
+
+Nematoda  Scottnema lindsayae
+
+1822.98 ± 213.22 533.07 ± 402.76
+
+54.59 ± 054.59  Plectus murrayi
+
+300.23 ± 172.73
+
+0.00 ± 0.00
+
+600.45 ± 243.00  Eudorylaimus antarcticus 1325.61 ± 640.76
+
+0.00 ± 0.00
+
+2651.22 ± 543.74 Tardigrada  Acutuncus antarcticus
+
+545.67 ± 287.81
+
+0.00 ± 0.00
+
+1091.33 ± 341.23 Rotifera 1299.48 ± 667.53
+
+0.00 ± 0.00
+
+2598.95 ± 734.38
+
+Fig. 2  δ 13C and δ 15N signature of fauna groups from wet soil within 5  m of Von Guerard stream in Taylor Valley, Antarctica. Data pre- sented are ‰ and are means with standard error bars
+
+
+
+
+1017Polar Biology (2018) 41:1013–1018
+
+1 3
+
+have suggested that lithic primary producers (e.g., cryptoe- ndoliths, hypoliths) could be a carbon source in dry soils (Burkins et al. 2000), and these sources have a lower isotopic signature than lake- and stream-associated cyanobacterial mats (Burkins et al. 2000). Additionally, we did not find E. antarcticus in the dry soil sites, but it is occasionally found in dry soil in the dry valleys (Freckman and Virginia 1997). The most frequent two-species community in the dry valleys is S. lindsayae with E. antarcticus (Freckman and Virginia 1997). Further work is needed to confirm trophic positions of soil fauna across the heterogeneous dry valleys landscape, especially in habitats with varied carbon sources (Burkins et al. 2000) and communities of multiple inverte- brate species. Our results have ecosystem implications. Around 95% of the McMurdo Dry Valleys region is considered dry soil habitat (≤ 2% gravimetric water content), which is most suit- able for the dominant nematode, bacterivore S. lindsayae. While E. antarcticus are present in low abundance in dry soil habitat, many are found in moist or wet soils. Around 5% of the McMurdo Dry Valleys are considered moist soil habitat, which is most suitable for E. antarcticus (Virginia and Wall 1999; Burkins et al. 2001). The McMurdo Dry Val- leys have recently been termed “a landscape on the thresh- old of change” because significant increases in the loss of both glacier and buried ice are expected to occur (Fountain et al. 2014). This predicted future increase in glacial melt and permafrost thaw will produce larger amounts of liquid water during the austral summer, generally “wetting up” what is now dry landscape (Gooseff et al. 2017a). With this increased melt from glaciers, massive buried ice, and per- mafrost, moist habitat area should increase. Such a change could impact the distribution and abundance of soil fauna, which differ in their habitat preferences (Freckman and Vir- ginia 1997), altering community composition (Nielsen et al.
+
+2011), and ultimately having ecosystem-level impacts on soil processes including carbon cycling (Barrett et al. 2008; Gooseff et al. 2017b). Understanding trophic positions and biotic interactions of soil fauna is critical for predicting future changes in species distributions and interactions due to increased connectivity.
+
+Acknowledgements This work was funded by the United States National Science Foundation (NSF), McMurdo Dry Valleys Long Term Ecological Research (MCM LTER) site, PLR 1115245. Geo- spatial support for this work was provided by the Polar Geospatial Center under NSF OPP awards 1043681 & 1559691. We are grateful to many people who helped with this work, especially the McMurdo Dry Valleys LTER group. Matthew Knox helped collect samples in the field. Members of the Wall Lab at Colorado State University, in par- ticular Amber Cavin, Cecilia Milano de Tomasel, and Emily Bernier, helped with lab work. Thanks also to the Crary Laboratory staff, Stable Isotope Mass Spectrometry Laboratory at Kansas State University, and PHI helicopters whose assistance with lab and fieldwork helped make this work possible.
+
+Compliance with ethical standards
+
+Conflict of interest The authors declare that they have no conflict of interest.
+
+References
+
+Adams BJ et al (2006) Diversity and distribution of Victoria Land biota. Soil Biol Biochem 38:3003–3018. https://doi.org/10.1016 /j.soilbio.2006.04.030 Adams B, Wall D, Virginia R, Broos E, Knox M (2014) Ecological biogeography of the terrestrial nematodes of Victoria Land, Antarctica. ZooKeys 419:29–71. https://doi.org/10.3897/zook eys.419.7180 Adhikari BN, Tomasel CM, Li G, Wall DH, Adams BJ (2010) Cultur- ing the Antarctic nematode Plectus murrayi. Cold Spring Harb Protoc. https://doi.org/10.1101/pdb.prot5522 Ayres E, Wall DH, Adams BJ, Barrett JE, Virginia RA (2007) Unique similarity of faunal communities across aquatic–terrestrial inter- faces in a polar desert ecosystem: soil–sediment boundaries and faunal community. Ecosystems 10:523–535. https://doi. org/10.1007/sl0021-007-9035-x Bamforth SS, Wall DH, Virginia R (2005) Distribution and diversity of soil protozoa in the McMurdo Dry Valleys of Antarctica. Polar Biol 28:756–762. https://doi.org/10.1007/s00300-005-0006-4 Barrett JE, Virginia RA, Wall DH, Adams BJ (2008) Decline in a domi- nant invertebrate species contributes to altered carbon cycling in a low-diversity soil ecosystem. Glob Change Biol 14:1734–1744. https://doi.org/10.1111/j.1365-2486.2008.01611.x Burkins MB, Virginia RA, Chamberlain CP, Wall DH (2000) Origin and distribution of soil organic matter in Taylor Valley, Antarc- tica. Ecology 81:2377–2391. https://doi.org/10.1890/0012-9658 (2000)081 Burkins MB, Virginia RA, Wall DH (2001) Organic carbon cycling in Taylor Valley, Antarctica: quantifying soil reservoirs and soil respiration. Glob Change Biol 7:113–125. https://doi.org/10.1046 /j.1365-2486.2001.00393.x Campbell IB, Claridge GC, Campbell DI, Balks MR (1998) The soil environment of the McMurdo Dry Valleys, Antarctica. In: Priscu JC (ed) Ecosystem dynamics in a polar desert: the McMurdo Dry
+
+Fig. 3  δ 13C and δ 15N signature of fauna groups from dry soil 5–10  m from Von Guerard stream in Taylor Valley, Antarctica. Data presented are ‰ and are means with standard error bars
+
+
+
+
+1018
+
+Polar Biology (2018) 41:1013–1018
+
+1 3
+
+Valleys, Antarctica. American Geophysical Union, Washington DC, pp 297–322 Darby B, Neher D (2012) Stable isotope composition of microfauna supports the occurrence of biologically fixed nitrogen from cyano- bacteria in desert soil food webs. J Arid Environ 85:76–78. http s://doi.org/10.1016/j.jaridenv.2012.06.006 de Tomasel CM, Adams BJ, Tomasel FG, Wall DH (2013) The life cycle of the Antarctic nematode Plectus murrayi under laboratory conditions. J Nematol 45:39–42 Ferris V, Ferris J (1989) Why ecologists need systematists: importance of systematics to ecological research. J Nematol 21:308–314 Fountain AG, Lyons WB, Burkins MB, Dana GL, Doran PT, Lewis KJ, McKnight DM, Moorhead DL, Parsons AN, Priscu JC, Wall DH, Wharton RA, Virginia RA (1999) Physical controls on the Taylor Valley ecosystem, Antarctica. Bioscience 49:961–971. http s://doi.org/10.2307/1313730 Fountain A, Levy J, Gooseff MN, Van Horn D (2014) The McMurdo Dry Valleys: a landscape on the threshold of change. Geomorphol- ogy 225:25–35. https://doi.org/10.1016/j.geomorph.2014.03.044 Freckman D (1988) Bacterivorous nematodes and organic matter decomposition. Agric Ecosyst Environ 24:195–217. https://doi. org/10.1016/0167-8809(88)90066-7 Freckman D, Virginia R (1993) Extraction of nematodes fromDry Val- ley Antarctic soils. Polar Biol 13:483–487. https://doi.org/10.1007 /BF00233139 Freckman DW, Virginia RA (1997) Low-diversity Antarctic soil nema- tode communities: distribution and response to disturbance. Ecol- ogy 78:363–369. https://doi.org/10.2307/2266013 Gooseff MN, Wlostowski A, McKnight DM, Jaros C (2017a) Hydro- logic connectivity and implications for ecosystem processes—les- sons from naked watersheds. Geomorphology 277:63–71. https:// doi.org/10.1016/j.geomorph.2016.04.024 Gooseff MN, Barrett JE, Adams BJ, Doran PT, Fountain AG, Lyons WB, McKnight DM, Priscu JC, Sokol SR, Takacs-Vesbach C, Vandegehuchte ML, Virginia RA, Wall DH (2017b) Decadal eco- system response to an anomalous melt season in a polar desert in Antarctica. Nat Ecol Evol 1:1334–1338. https://doi.org/10.1038 /s41559-017-0253-0 Hollis JP (1957) Cultural studies with Dorylaimus ettersbergensis. Phytopathology 47:468–473 Hooper DJ (1970) Extraction of free-living stages from soil. In: Southey JF (ed) Laboratory methods for work with plant and soil nematodes, 6th edn. Ministery of Agriculture, Fisheries and Food, London, pp 5–30 Kudrin AA, Tsurikov SM, Tiunov AV (2015) Trophic position of microbivorous and predatory soil nematodes in a boreal forest as indicated by stable isotope analysis. Soil Biol Biochem 86:193– 200. https://doi.org/10.1016/j.soilbio.2015.03.017 Lawson J, Doran PT, Kenig F, Des Marais DJ, Priscu JC (2004) Stable carbon and nitrogen isotopic composition of benthic and pelagic organic matter in lakes of the McMurdo Dry Valleys, Antarc- tica. Aquat Geochem 10:269–301. https://doi.org/10.1007/s104 98-004-2262-2 McCutchan JH, Lewis WM, Kendall C, McGrath CC (2003) Variation in trophic shift for stable isotope ratios of carbon, nitrogen, and sulfur. Oikos 102:378–390. https://doi.org/10.1034/j.1600-0706 .2003.12098.x McSorley R (2012) Ecology of the dorylaimid omnivore genera Aporcelaimellus, Eudorylaimus and Mesodorylaimus. Nematol- ogy 14:645–663. https://doi.org/10.1163/156854112x651168 Newsham KK, Rolf J, Pearce DA, Strachan RJ (2004) Differing prefer- ences of Antarctic soil nematodes for microbial prey. Eur J Soil Biol 40:1–8. https://doi.org/10.1016/j.ejsobi.2004.01.004
+
+Nielsen UN, Wall DH, Adams BJ, Virginia RA (2011) Antarctic nema- tode communities: observed and predicted responses to climate change. Polar Biol 34:1701–1711. https://doi.org/10.1007/s003 00-011-1021-2 Overhoff A, Freckman D, Virginia R (1993) Life cycle of the micro- bivorous Antarctic Dry Valley nematode Scottnema lindsayae (Timm 1971). Polar Biol 13:151–156. https://doi.org/10.1007/ BF00238924 Post DM (2002) Using stable isotopes to estimate trophic position: models, methods, and assumptions. Ecology 83:703–718. https:// doi.org/10.2307/3071875 Powers LE, Ho MC, Freckman DW, Virginia RA (1998) Distribution, community structure, and microhabitats of soil invertebrates along an elevational gradient in Taylor Valley, Antarctica. Arc Alp Res 30:133–141. https://doi.org/10.1007/BF00238482 Shaw EA, Denef K, Milano de Tomasel C, Cotrufo MF, Wall DH (2016) Fire affects root decomposition, soil food web structure, and carbon flow in tallgrass prairie. Soil 2:199–210. https://doi. org/10.5194/soil-2-199-2016 Sohlenius B, Boström S (2005) The geographic distribution of meta- zoan microfauna on East Antarctic nunataks. Polar Biol 28:439– 448. https://doi.org/10.1007/s00300-004-0708-z Spaulding SA, McKnight DM (1998) Diatoms as indicators of environ- mental change in antarctic freshwaters. In: Smol J, Stoermer EF (eds) The diatoms: applications for the environmental and earth sciences. Cambridge University Press, Cambridge, pp 249–263 Stirling G (2014) Biological control of plant-parasitic nematodes: soil ecosystemmanagement in sustainable agriculture, 2nd edn. CABI, Boston Tjepkema J, Ferris V, Ferris J (1971) Review of the Genus Aporce- laimellus Heyns, 1965 and Six Species Groups of the Genus Eudorylaimus Andrassy, 1959 (Nematoda: Dorylaimida). Purdue University Agricultural Research Bulletin, 882, West Lafayette Treonis AM, Wall DH, Virginia RA (1999) Invertebrate biodiversity in Antarctic Dry Valley soils and sediments. Ecosystems 2:482–492. https://doi.org/10.1007/s100219900096 Van Horn DJ, Wolf CR, Colman DR, Jiang X, Kohler TJ, McKnight DM, Stanish LF, Yazzie T, Takacs-Vesbach CD (2016) Patterns of bacterial biodiversity in the glacial meltwater streams of the McMurdo Dry Valleys, Antarctica. FEMS Microbiol Ecol 92:1– 16. https://doi.org/10.1093/femsec/fiw148 Velásquez D, Jungblut AD, Rochera C, Rico E, Camacho A, Quesada A (2017) Trophic interactions in microbial mats on Byers Penin- sula, maritime Antarctica. Polar Biol 40:1115–1126. https://doi. org/10.1007/s00300-016-2039-2 Virginia RA, Wall DH (1999) How soils structure communities in the Antarctic Dry Valleys. Bioscience 49:973–983. https://doi. org/10.1525/bisi.1999.49.12.973 Wall DH (2007) Global change tipping points: above- and below- ground biotic interactions in a low diversity ecosystem. Philos Trans R Soc Lond B Biol Sci 362:2291–2306. https://doi. org/10.1098/rstb.2006.1950 Wall DH, Virginia RA (1999) Controls on soil biodiversity: insights from extreme environments. Appl Soil Ecol 13:137–150. https:// doi.org/10.1016/S0929-1393(99)00029-3 Wood FH (1973) Nematodes feeding relationships: feeding relation- ships of soil-dwelling nematodes. Soil Biol Biochem 5:593– 601. https://doi.org/10.1016/0038-0717(73)90049-7 Yeates G, Bongers T, de Goede R, Freckman D, Georgieva S (1993) Feeding habits in soil nematode families and genera: an outline for soil ecologists. J Nematol 25:315–331
+
+
+
+
+
