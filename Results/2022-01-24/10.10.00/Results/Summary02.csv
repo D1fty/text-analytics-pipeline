@@ -1,0 +1,4 @@
+,DocNum,Sentences,Tokens,Characters,Species Mentions,Species %,Location Mentions,Location %,Unique Species,Unique Locations,Possible Relationships,True Relationships,Relationship %,Cross Sentence Relationships %
+0,Document 1,202,5990,33353,133,2.321,108,2.938,32,25,18408,24,0.13,4.167
+1,Document 2,410,10678,52365,133,1.302,108,1.648,32,25,18408,24,0.13,4.167
+2,Total,612,16668,85718,266,1.668,216,2.112,64,50,36816,48,0.13,4.167
