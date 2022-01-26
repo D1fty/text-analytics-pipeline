@@ -1,3 +1,0 @@
-Actual Relationships: 111
-Not Relationships: 56859
-Ratio of non to true: 512:1
